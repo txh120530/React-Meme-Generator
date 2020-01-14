@@ -83,7 +83,6 @@ class MemeGenerator extends Component{
 	name="memeID"
 >
 <option value="">Random</option>
-  <option value="188390779">Woman Yelling at Cat</option>
   <option value="100777631">Is This A Pigeon</option>
   <option value="563423">That Would Be Great</option>
   <option value="3218037">This Is Where I'd Put My Trophy If I Had One</option>
